@@ -23,7 +23,7 @@ import storage
 # ==============================================================================
 # PLACEHOLDER: Replace with your GitHub profile or repository URL
 # ==============================================================================
-GITHUB_URL = "https://github.com/your-username/SecureCloudStorage"
+GITHUB_URL = "https://github.com/tanmayjadhavaiml/secure-cloud-storage"
 
 
 def format_size(size_bytes: int) -> str:
